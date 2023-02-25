@@ -1,0 +1,19 @@
+Gra Milionerzy - Zasady
+
+Przed tobą 10 pytań, każde pytanie jest warte określoną kwotę
+
+1 pytanie - 500pln
+2 pytanie - 1 000pln (próg gwarantowany)
+3 pytanie - 5 000pln
+4 pytanie - 10 000pln
+5 pytanie - 20 000pln
+6 pytanie - 40 000pln (próg gwarantowany)
+7 pytanie - 100 000pln
+8 pytanie - 250 000pln
+9 pytanie - 500 000pln
+10 pytanie - 1 000 000pln
+Pytanie 2 oraz 6 ma próg gwarantowany, więc jeśli poprawnie odpowiesz na któreś z tych pytań a potem zakończysz grę, wygrywasz próg gwarantowany
+
+Masz do dyspozycji trzy koła ratunkowe: pytanie do publiczności, telefon do eksperta oraz pół na pół. Każdego z nich możesz użyć tylko raz
+
+Odpowiedzi udzielaj wpisując dużą literę. Przykładowo, jeśli uważasz, że poprawną odpowiedzią jest odpowiedź B to wpisz (B)

@@ -1,0 +1,438 @@
+{
+    "lvl1": [
+        {
+            "prompt": "Oktoberfest to \u015bwi\u0119to:",
+            "answer1": "A. W\u00f3dki",
+            "answer2": "B. Piwa",
+            "answer3": "C. Wina",
+            "answer4": "D. Whiskey",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Kto jako pierwszy postawi\u0142 stop\u0119 na ksi\u0119\u017cycu?",
+            "answer1": "A. Louis Vuitton",
+            "answer2": "B. Louis Armstrong",
+            "answer3": "C. Neil Armstrong",
+            "answer4": "D. Steve Madden",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Jakiego miasta szuka\u0142 Kozio\u0142ek Mato\u0142ek?",
+            "answer1": "A. Pacanowa",
+            "answer2": "B. Tomaszowa",
+            "answer3": "C. Baranowa",
+            "answer4": "D. Chorzowa",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Do przenoszenia wiadomo\u015bci w \u015bredniowieczu wykorzystywany by\u0142:",
+            "answer1": "A. Go\u0142\u0105b",
+            "answer2": "B. Jastrz\u0105b",
+            "answer3": "C. Bocian",
+            "answer4": "D. Orze\u0142",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Kt\u00f3re z tych pa\u0144stw ma najmniejsz\u0105 liczb\u0119 mieszka\u0144c\u00f3w?",
+            "answer1": "A. Bangladesz",
+            "answer2": "B. Filipiny",
+            "answer3": "C. Egipt",
+            "answer4": "D. Brazylia",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "\"Biega, krzyczy pan Hilary...",
+            "answer1": "A. ...Bo\u017ce, ale jestem stary!\"",
+            "answer2": "B. ...gdzie s\u0105 moje okulary?\"",
+            "answer3": "C. ...zrobi\u0119 sobie modne dziary\"",
+            "answer4": "D. ...p\u00f3jd\u0119 jutro na wagary\"",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Jak nazywa si\u0119 grecka bogini m\u0105dro\u015bci?",
+            "answer1": "A. Atena",
+            "answer2": "B. Hestia",
+            "answer3": "C. Hebe",
+            "answer4": "D. Hera",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Kt\u00f3ry z tych grzyb\u00f3w nie nadaje si\u0119 do zjedzenia?",
+            "answer1": "A. Muchomor sromotnikowy",
+            "answer2": "B. Opie\u0144ka miodowa",
+            "answer3": "C. Ma\u015blak zwyczajny",
+            "answer4": "D. Borowik szlachetny",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Co kr\u00f3tkiego ma k\u0142amstwo?",
+            "answer1": "A. Nogi",
+            "answer2": "B. Wzrok",
+            "answer3": "C. Pami\u0119\u0107",
+            "answer4": "D. Met\u0119",
+            "correctAnswer": "A"
+        }
+    ],
+    "lvl2": [
+        {
+            "prompt": "Jak\u0105 nazw\u0119 nosi najwy\u017cszy szczyt w Polsce?",
+            "answer1": "A. \u015anie\u017cka",
+            "answer2": "B. Rysy",
+            "answer3": "C. Cubryna",
+            "answer4": "D. Gerlach",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Jaki by\u0142 ulubiony deser Jana Paw\u0142a II?",
+            "answer1": "A. Strudel",
+            "answer2": "B. Bezy",
+            "answer3": "C. Krem\u00f3wki",
+            "answer4": "D. P\u0105czki",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Jak nazywa si\u0119 grecki b\u00f3g morza?",
+            "answer1": "A. Hades",
+            "answer2": "B. Posejdon",
+            "answer3": "C. Neptun",
+            "answer4": "D. Hermes",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Bomba z wyliczanki wpad\u0142a do piwnicy. I co napisa\u0142a na tablicy?",
+            "answer1": "A. \"Zimno tu jak w kostnicy\"",
+            "answer2": "B. \"Niechaj dr\u017c\u0105 nieboszczycy!\"",
+            "answer3": "C. \"SOS, g\u0142upi pies\"",
+            "answer4": "D. \"SMS, zapalnik jest\"",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Jak nazywa si\u0119 starsza siostra kresk\u00f3wkowego Dextera?",
+            "answer1": "A. Bajka",
+            "answer2": "B. Mary",
+            "answer3": "C. Dee Dee",
+            "answer4": "D. Susan",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Kt\u00f3re miasto by\u0142o pierwsz\u0105 stolic\u0105 Polski?",
+            "answer1": "A. Gniezno",
+            "answer2": "B. Kielce",
+            "answer3": "C. Warszawa",
+            "answer4": "D. Krak\u00f3w",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Najstarszy uniwersytet w Europie, Uniwersytet Bolo\u0144ski, znajduje si\u0119:",
+            "answer1": "A. w Hiszpanii",
+            "answer2": "B. we Francji",
+            "answer3": "C. we W\u0142oszech",
+            "answer4": "D. w Belgii",
+            "correctAnswer": "C"
+        }
+    ],
+    "lvl3": [
+        {
+            "prompt": "Gdzie Nowy Rok \u015bwi\u0119tuje si\u0119 co roku najwcze\u015bniej?",
+            "answer1": "A. Na Alasce",
+            "answer2": "B. W Australii",
+            "answer3": "C. Na Grenlandii",
+            "answer4": "D. W Ghanie",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Kogo pojmano w 1713r., oskar\u017cono o zab\u00f3jstwo plebana z Demanicy i powieszono na haku za po\u015blednie lewe ziobro?",
+            "answer1": "A. Zbyszka z Bogda\u0144ca",
+            "answer2": "B. Harnasia Janosika",
+            "answer3": "C. Robin Hooda",
+            "answer4": "D. Andrzeja Kmicica",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Kt\u00f3ra z podanych marek samochod\u00f3w jest w\u0142oska?",
+            "answer1": "A. Suzuki",
+            "answer2": "B. Mercedes",
+            "answer3": "C. McLaren",
+            "answer4": "D. Ferrari",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Kt\u00f3ry z poni\u017cszych s\u0105siaduje z miesi\u0105cami, z kt\u00f3rych jeden ma 30, a drugi 31 dni?",
+            "answer1": "A. Stycze\u0144",
+            "answer2": "B. Kwiecie\u0144",
+            "answer3": "C. Sierpie\u0144",
+            "answer4": "D. Listopad",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Jak mia\u0142 na imi\u0119 van Gogh?",
+            "answer1": "A. Krzysztof",
+            "answer2": "B. Jan",
+            "answer3": "C. Ludwig",
+            "answer4": "D. Vincent",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "Jak\u0105 nazw\u0119 nosi samoch\u00f3d papieski?",
+            "answer1": "A. Chrysler Pope",
+            "answer2": "B. Popecar",
+            "answer3": "C. Polonez",
+            "answer4": "D. Papamobile",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "Morze Martwe rozs\u0142awi\u0142o wysokie st\u0119\u017cenie tego zwi\u0105zku chemicznego",
+            "answer1": "A. HCl",
+            "answer2": "B. NaCl",
+            "answer3": "C. NaOH",
+            "answer4": "D. CO",
+            "correctAnswer": "B"
+        }
+    ],
+    "lvl4": [
+        {
+            "prompt": "Jak nazywa si\u0119 stolica Kuby?",
+            "answer1": "A. Havana",
+            "answer2": "B. Nassau",
+            "answer3": "C. Tirana",
+            "answer4": "D. Kingston",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "'Wpu\u015bci\u0107 chamstwo na salony...' jest cytatem z filmu:",
+            "answer1": "A. Kariera Nikosia Dyzmy",
+            "answer2": "B. Bogowie",
+            "answer3": "C. Ch\u0142opaki nie p\u0142acz\u0105",
+            "answer4": "D. Psy",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Aby czego\u015b wyszuka\u0107 na komputerze, u\u017cyjemy skr\u00f3tu:",
+            "answer1": "A. Ctrl + T",
+            "answer2": "B. Ctrl + V",
+            "answer3": "C. Ctrl + L",
+            "answer4": "D. Ctrl + F",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "W kt\u00f3rym kraju znajduje si\u0119 najwi\u0119ksza liczba jezior?",
+            "answer1": "A. Polska",
+            "answer2": "B. Kanada",
+            "answer3": "C. Rosja",
+            "answer4": "D. Stany Zjednoczone",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Jaka firma produkuje nap\u00f3j o nazwie Mountain Dew?",
+            "answer1": "A. PepsiCo",
+            "answer2": "B. Coca Cola",
+            "answer3": "C. Tymbark",
+            "answer4": "D. Hortex",
+            "correctAnswer": "A"
+        }
+    ],
+    "lvl5": [
+        {
+            "prompt": "Psy jakiej rasy kojarz\u0105 si\u0119 z kr\u00f3low\u0105 El\u017cbiet\u0105 II?",
+            "answer1": "A. Jamnik",
+            "answer2": "B. Shiba inu",
+            "answer3": "C. Beagle",
+            "answer4": "D. Corgi",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "Jak mia\u0142 na imi\u0119 ostatni kr\u00f3l Polski?",
+            "answer1": "A. Kazimierz Wielki",
+            "answer2": "B. Mieszko I",
+            "answer3": "C. Stanis\u0142aw August Poniatowski",
+            "answer4": "D. Boles\u0142aw Chrobry",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Kto i sk\u0105d wydobywa bitcoiny?",
+            "answer1": "A. G\u00f3rnik z kopalni",
+            "answer2": "B. Stra\u017cak z pogorzeliska",
+            "answer3": "C. \u017buraw ze studni",
+            "answer4": "D. \u015apiewak z krtani",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Kto wygra\u0142 pierwsz\u0105 edycj\u0119 polskiego Mam Talent?",
+            "answer1": "A. Blady Kris",
+            "answer2": "B. Marcin Wyrostek",
+            "answer3": "C. Melkart Ball",
+            "answer4": "D. Ewa Lewandowska",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Z jakiego j\u0119zyka pochodzi s\u0142owo 'aloha'?",
+            "answer1": "A. Hawajskiego",
+            "answer2": "B. Hiszpa\u0144skiego",
+            "answer3": "C. Hausa",
+            "answer4": "D. Portugalskiego",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Jakie zwierz\u0119 trzyma na r\u0119kach Cecylia Gallerani na jednym z najcenniejszych obraz\u00f3w w polskich zbiorach?",
+            "answer1": "A. Kota albo psa",
+            "answer2": "B. Kur\u0119 albo kaczk\u0119",
+            "answer3": "C. Gronostaja albo fretk\u0119",
+            "answer4": "D. Kr\u00f3lika albo zaj\u0105ca",
+            "correctAnswer": "C"
+        }
+    ],
+    "lvl6": [
+        {
+            "prompt": "Kto jest wokalist\u0105 zespo\u0142u U2?",
+            "answer1": "A. Neil Young",
+            "answer2": "B. Sting",
+            "answer3": "C. Moby",
+            "answer4": "D. Bono",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "Kt\u00f3ry zesp\u00f3\u0142 by\u0142 autorem popularnej w latach 90. piosenki 'Kolorowe sny'?",
+            "answer1": "A. Just 5",
+            "answer2": "B. Boys",
+            "answer3": "C. Ich Troje",
+            "answer4": "D. Ivan i Delfin",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Kt\u00f3ry z w\u0119\u017cy jest najbardziej jadowity?",
+            "answer1": "A. Grzechotnik pustynny",
+            "answer2": "B. Kobra kr\u00f3lewska",
+            "answer3": "C. Tajpan pustynny",
+            "answer4": "D. Czarna mamba",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Jak nazywaj\u0105 si\u0119 g\u00f3ry, kt\u00f3re oddzielaj\u0105 Europ\u0119 od Azji?",
+            "answer1": "A. Ural",
+            "answer2": "B. Karkonosze",
+            "answer3": "C. Apeniny",
+            "answer4": "D. Pireneje",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Kto jest autorem piosenki 'Vamos a la playa'?",
+            "answer1": "A. Jennifer Lopez",
+            "answer2": "B. Madonna",
+            "answer3": "C. Loona",
+            "answer4": "D. Shakira",
+            "correctAnswer": "C"
+        }
+    ],
+    "lvl7": [
+        {
+            "prompt": "W kt\u00f3rym z film\u00f3w nie zagra\u0142a Anna Mucha?",
+            "answer1": "A. Ch\u0142opaki nie p\u0142acz\u0105",
+            "answer2": "B. Wkr\u0119ceni 2",
+            "answer3": "C. Wkr\u0119ceni",
+            "answer4": "D. Och, Karol 2",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Kto otar\u0142 chust\u0105 oczy Jezusowi podczas drogi krzy\u017cowej?",
+            "answer1": "A. Teresa",
+            "answer2": "B. Magdalena",
+            "answer3": "C. Weronika",
+            "answer4": "D. Maria",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Jak nazywa si\u0119 g\u0142\u00f3wny bohater serii gier Gothic?",
+            "answer1": "A. Gorn",
+            "answer2": "B. Diego",
+            "answer3": "C. Milten",
+            "answer4": "D. Bezimienny",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "Kto zbudowa\u0142 labirynt Minotaura?",
+            "answer1": "A. Talos",
+            "answer2": "B. Dedal",
+            "answer3": "C. Minos",
+            "answer4": "D. Ikar",
+            "correctAnswer": "B"
+        }
+    ],
+    "lvl8": [
+        {
+            "prompt": "Kt\u00f3ra z rodzaj\u00f3w w\u0142adzy nie znajduje si\u0119 w tzw. tr\u00f3jpodziale?",
+            "answer1": "A. Wykonawcza",
+            "answer2": "B. S\u0105downicza",
+            "answer3": "C. Ustawodawcza",
+            "answer4": "D. Samorz\u0105dowa",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "W jakim pa\u0144stwie odby\u0142y si\u0119 Mistrzostwa Europy w Pi\u0142ce No\u017cnej w 2004 roku?",
+            "answer1": "A. Szwajcaria",
+            "answer2": "B. Hiszpania",
+            "answer3": "C. Portugalia",
+            "answer4": "D. Francja",
+            "correctAnswer": "C"
+        },
+        {
+            "prompt": "Gdzie toczy si\u0119 akcja gry Assassin's Creed II?",
+            "answer1": "A. W\u0142ochy",
+            "answer2": "B. Francja",
+            "answer3": "C. Hiszpania",
+            "answer4": "D. Stany Zjednoczone",
+            "correctAnswer": "A"
+        }
+    ],
+    "lvl9": [
+        {
+            "prompt": "Jak nazywa si\u0119 najd\u0142u\u017csza rzeka w Japonii?",
+            "answer1": "A. Shinano",
+            "answer2": "B. Yodo",
+            "answer3": "C. Kiso",
+            "answer4": "D. Kitakami",
+            "correctAnswer": "A"
+        },
+        {
+            "prompt": "Kt\u00f3re pa\u0144stwo wystawi\u0142o na paraolimpiadzie w 2000 roku dru\u017cyn\u0119 zdrowych koszykarzy udaj\u0105cych upo\u015bledzonych?",
+            "answer1": "A. Stany Zjednoczone",
+            "answer2": "B. Wielka Brytania",
+            "answer3": "C. Hiszpania",
+            "answer4": "D. Rosja",
+            "correctAnswer": "C"
+        }
+    ],
+    "lvl10": [
+        {
+            "prompt": "Jak nazywa\u0142o si\u0119 po\u017cywienie, kt\u00f3re Frodo i Sam otrzymali od elf\u00f3w we W\u0142adcy Pier\u015bcieni?",
+            "answer1": "A. Kram",
+            "answer2": "B. Lembasy",
+            "answer3": "C. Miodowniki",
+            "answer4": "D. Korzonki",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "W kt\u00f3rym roku powsta\u0142 klub pi\u0142karski Zag\u0142\u0119bie Sosnowiec?",
+            "answer1": "A. 1913",
+            "answer2": "B. 1906",
+            "answer3": "C. 1922",
+            "answer4": "D. 1924",
+            "correctAnswer": "B"
+        },
+        {
+            "prompt": "Sk\u0105d pochodzi Conan Barbarzy\u0144ca?",
+            "answer1": "A. Z Rivii",
+            "answer2": "B. Z Oz",
+            "answer3": "C. Z Mordoru",
+            "answer4": "D. Z Cymerii",
+            "correctAnswer": "D"
+        },
+        {
+            "prompt": "Likier maraskino produkuje si\u0119 z maraski, czyli odmiany:",
+            "answer1": "A. Wi\u015bni",
+            "answer2": "B. Jab\u0142oni",
+            "answer3": "C. Figi",
+            "answer4": "D. Gruszy",
+            "correctAnswer": "A"
+        }
+    ]
+}
